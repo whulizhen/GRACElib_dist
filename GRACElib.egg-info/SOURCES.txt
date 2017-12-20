@@ -1,0 +1,11 @@
+GRACElib.py
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+GRACElib.egg-info/PKG-INFO
+GRACElib.egg-info/SOURCES.txt
+GRACElib.egg-info/dependency_links.txt
+GRACElib.egg-info/requires.txt
+GRACElib.egg-info/top_level.txt
