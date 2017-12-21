@@ -69,7 +69,7 @@ setup(
 
     # This should be a valid email address corresponding to the author listed
     # above.
-    author_email='hpulizhen@163.com',  # Optional
+    author_email="hpulizhen@163.com",  # Optional
 
     # Classifiers help users find your project by categorizing it.
     #
@@ -85,7 +85,7 @@ setup(
         # Indicate who your project is intended for
         #'Intended Audience :: Researchers in Geodesy and Earth Science',
         #'Topic :: GRACE Software :: L1B Data Extraction Tools',
-        
+
         # Pick your license as you wish (should match "license" above)
         'License :: OSI Approved :: MIT License',
 
